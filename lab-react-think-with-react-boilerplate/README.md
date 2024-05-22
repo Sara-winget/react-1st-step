@@ -215,4 +215,4 @@ In this exercise, you've learnt various ways of setting up react in your system.
 
 This concludes the React setup. We are proud of you!
 
-Happy Coding ❤️!
+
